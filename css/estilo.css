@@ -1,0 +1,50 @@
+.dir{
+  margin-right: 9px;
+}
+.dirr{
+  margin-top: 3px;
+}
+.cont{
+  margin-top: -9.5px;
+}
+.cont__{
+  margin-right: 8px;
+}
+.lef{
+  text-align: left;
+  padding-left: 0px;
+  margin-left: 0px;
+}
+.logot{
+  size: 0;
+  border-image: 8px;
+}
+.es li{
+  align-content: right;
+  align-items: right; 
+  text-align: right;
+}
+.esq{
+	text-align: left;
+	position: absolute;
+  top: 6em;
+  right: 0.5em;
+  bottom: 0px;
+  left: 30em;
+  margin: 0px;
+  padding: 0px;
+  display: inline-block;
+}
+.est{
+	border-radius: 5px;
+}
+
+.social a[href*="facebook.com"] {
+    background-image: url(../img/facebook.png);
+}
+.social a[href*="twitter.com"] {
+    background-image: url(../img/twitter.png);
+}
+.social a[href*="plus.google.com"] {
+    background-image: url(../img/googleplus.png);
+}
